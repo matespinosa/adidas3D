@@ -87,6 +87,7 @@ body {
 button.active {
   background: #585858;
   color: #fff;
+  font-family: "Poppins", sans-serif;
 }
 
 .purchase {
@@ -94,6 +95,7 @@ button.active {
 
 }
 .purchase button {
+  font-family: "Poppins", sans-serif;
   width: 100%;
   padding: 1rem 0;
   background: #f54642;
@@ -101,6 +103,7 @@ button.active {
   color: #fff;
   cursor: pointer;
   border-radius: 30px;
+  font-size: 1.3rem;
   font-weight: bolder;
   transition: all 0.75s ease-out;
 
